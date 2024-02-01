@@ -5,7 +5,7 @@ import App from './App.jsx'
 import './index.css'
 import Home from './pages/Home.jsx'
 import Summary from './pages/Summary.jsx'
-import Form from './pages/form.jsx'
+import Form from './pages/Form.jsx'
 
 const router = createBrowserRouter([
   {
